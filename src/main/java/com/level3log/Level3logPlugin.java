@@ -56,7 +56,7 @@ public class Level3logPlugin extends Plugin
 				"General Graardor","Grotesque Guardians","Hespori","The Inferno","Kree'arra","K'ril Tsutsaroth",
 				"Nex","The Nightmare","Vorkath","Zalcano","Zulrah","Theatre of Blood","Tombs of Amascut",
 				"Hallowed Sepulchre","Magic Training Arena","Pest Control","Shades of Mort'ton","Soul Wars",
-				"Temple Trekking","Trouble Brewing","Chompy Birds","Cyclopes","Glough's Experiments",
+				"Temple Trekking","Trouble Brewing","Chompy Bird Hunting","Cyclopes","Glough's Experiments",
 				"Monkey Backpacks","Shayzien Armour");
 		// Widget child indexes of each page list, (Bosses, Raids, Clues, Other, Minigames)
 		List<Integer> collectionLogListIndex = ImmutableList.of(12, 16, 32, 34, 35);
